@@ -1,2 +1,2 @@
-# learn-pwa
-Learn-PWA
+# pwa
+PWA
