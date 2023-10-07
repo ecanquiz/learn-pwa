@@ -22,6 +22,7 @@ export default defineConfig({
         items: [
           { text: 'Visión General', link: '/overview' },
           { text: 'Progressive Web Apps', link: '/pwa' },
+          { text: 'Empezando', link: '/getting-started' },
         ]
       }      
     ],
