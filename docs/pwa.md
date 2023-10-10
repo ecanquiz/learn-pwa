@@ -4,7 +4,7 @@
 La fuente original (en ingles) de este tutorial se encuentra [aquí](https://web.dev/learn/pwa/progressive-web-apps/)
 :::
 
->_Las aplicaciones web progresivas (PWA) son aplicaciones web creadas y mejoradas con API modernas para ofrecer capacidades, confiabilidad e instalación mejoradas y, al mismo tiempo, llegar a cualquier persona, en cualquier lugar y en cualquier dispositivo, todo con una única base de código._
+>_Las Aplicaciones Web Progresivas (PWA) son aplicaciones web creadas y mejoradas con API modernas para ofrecer capacidades, confiabilidad e instalación mejoradas y, al mismo tiempo, llegar a cualquier persona, en cualquier lugar y en cualquier dispositivo, todo con una única base de código._
 
 Una aplicación web progresiva (PWA) es una aplicación web que utiliza mejoras progresivas para brindar a los usuarios una experiencia más confiable, utiliza nuevas capacidades para brindar una experiencia más integrada y se puede instalar. Y, como es una aplicación web, puede llegar a cualquier persona, en cualquier lugar y en cualquier dispositivo, todo con una única base de código. Una vez instalada, una PWA se parece a cualquier otra aplicación, específicamente:
 
@@ -34,7 +34,7 @@ Un desafío para las aplicaciones de plataformas específicas es que no son comp
 
 ## Trayendo lo mejor de ambos mundos
 
-Si piensa en las aplicaciones de plataforma y las aplicaciones web en términos de capacidades y alcance, las aplicaciones de plataforma representan las mejores capacidades, mientras que las aplicaciones web representan el mejor alcance. Las aplicaciones web progresivas se encuentran en la intersección de las capacidades de las aplicaciones de plataforma y el alcance de las aplicaciones web. Una aplicación web progresiva incluye funciones de ambos mundos.
+Si piensa en las aplicaciones de plataforma y las aplicaciones web en términos de capacidades y alcance, las aplicaciones de plataforma representan las mejores capacidades, mientras que las aplicaciones web representan el mejor alcance. Las Aplicaciones Web Progresivas se encuentran en la intersección de las capacidades de las aplicaciones de plataforma y el alcance de las aplicaciones web. Una aplicación web progresiva incluye funciones de ambos mundos.
 
 |Web|Platform apps|
 |-|-|
@@ -67,7 +67,7 @@ Muchas otras empresas han implementado PWA y han obtenido beneficios. Grandes em
 
 ## El cambio de juego del streaming
 
-Un gran ejemplo del poder de las aplicaciones web progresivas es la industria de las plataformas de streaming, incluidos los juegos en la nube y la informática remota. Desde 2021, la mayoría de los proveedores de juegos en la nube han lanzado aplicaciones web progresivas, que le permiten jugar juegos de consola desde cualquier dispositivo y solo un navegador o una instalación de PWA: iPhone, Android, iPad, computadoras portátiles, Mac o PC. Amazon Luna, Microsoft Xbox Cloud Gaming, Facebook Gaming, Google Stadia, Nvidia GeForce Now y BlueStacks X ofrecen soluciones de juegos en la nube a través del navegador como PWA. Todos brindan una excelente experiencia con un rendimiento cercano al nativo en todas las plataformas gracias a tecnologías web como WebRTC, WebAssembly y GamePad API.
+Un gran ejemplo del poder de las Aplicaciones Web Progresivas es la industria de las plataformas de streaming, incluidos los juegos en la nube y la informática remota. Desde 2021, la mayoría de los proveedores de juegos en la nube han lanzado Aplicaciones Web Progresivas, que le permiten jugar juegos de consola desde cualquier dispositivo y solo un navegador o una instalación de PWA: iPhone, Android, iPad, computadoras portátiles, Mac o PC. Amazon Luna, Microsoft Xbox Cloud Gaming, Facebook Gaming, Google Stadia, Nvidia GeForce Now y BlueStacks X ofrecen soluciones de juegos en la nube a través del navegador como PWA. Todos brindan una excelente experiencia con un rendimiento cercano al nativo en todas las plataformas gracias a tecnologías web como WebRTC, WebAssembly y GamePad API.
 
 ## Desafíos
 
@@ -87,7 +87,7 @@ Al igual que con todo el desarrollo web, es obligatorio probar su experiencia en
 
 ## Concientización sobre las PWA
 
-Como desarrollador de PWA, probablemente encontrará un problema de concienciación, tanto por parte del negocio como del usuario. Algunos propietarios de empresas no conocerán las PWA o tendrán ideas erróneas sobre el poder y los desafíos de las aplicaciones web progresivas.
+Como desarrollador de PWA, probablemente encontrará un problema de concienciación, tanto por parte del negocio como del usuario. Algunos propietarios de empresas no conocerán las PWA o tendrán ideas erróneas sobre el poder y los desafíos de las Aplicaciones Web Progresivas.
 
 Cuando publica una PWA, su próximo desafío es garantizar que los usuarios comprendan que el sitio web se puede instalar, lo que lleva a una experiencia de aplicación instalada.
 
